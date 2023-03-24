@@ -27,7 +27,7 @@ void skydoge_hash(const char* input, char* output, uint32_t len)
 {
 	sph_blake512_context     ctx_blake;
 	sph_bmw512_context       ctx_bmw;
-	sph_groestl512_context   ctx_groestl;
+	sph_groestl512_context   ctx_groestl; 
 	sph_skein512_context     ctx_skein;
 	sph_jh512_context        ctx_jh;
 	sph_keccak512_context    ctx_keccak;
