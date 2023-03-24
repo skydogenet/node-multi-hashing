@@ -52,6 +52,7 @@
                 "x15.c",
                 "x16r.c",
                 "x17.c",
+                "skydoge.c",               
                 "x25x.c",
                 "xevan.c",
                 "zr5.c",
