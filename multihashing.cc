@@ -697,6 +697,7 @@ DECLARE_INIT(init) {
     NODE_SET_METHOD(exports, "x16r", x16r);
     NODE_SET_METHOD(exports, "x16rv2", x16rv2);
     NODE_SET_METHOD(exports, "x17", x17);
+    NODE_SET_METHOD(exports, "skydoge", skydoge); 
     NODE_SET_METHOD(exports, "x25x", x25x);
     NODE_SET_METHOD(exports, "xevan", xevan);
     NODE_SET_METHOD(exports, "yespower", yespower);
